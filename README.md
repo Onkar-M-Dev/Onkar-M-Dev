@@ -111,7 +111,6 @@ I'm currently expanding my cloud engineering skills by working with:
 
 - Terraform Modules
 - AWS Services
-- Kubernetes
 - Amazon ECS
 - CI/CD Best Practices
 - Cloud Security
