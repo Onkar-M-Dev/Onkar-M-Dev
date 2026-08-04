@@ -1,62 +1,133 @@
 # Hi, I'm Onkar Marne 👋
 
-**Cloud Engineer** · AWS Certified Solutions Architect (SAA-C03) · Pune, India
+### Cloud Engineer | AWS | Terraform | Docker | GitHub Actions | Python
 
-I build and deploy cloud-native services — containerized, automated, and observable. My focus is on reliable deployments, CI/CD pipelines, and cloud infrastructure on AWS and Render.
+I'm a Cloud Engineer focused on building and deploying containerized applications, automating infrastructure, and implementing cloud-native deployment workflows.
+
+My work centers around Infrastructure as Code (Terraform), cloud deployment on AWS and Render, Docker-based containerization, CI/CD automation with GitHub Actions, and backend development using Python.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Cloud & Infra**
-`AWS (EC2 · S3 · RDS · IAM · Lambda · CloudWatch · VPC)` `Render` `Linux` `SSH`
+### Cloud & Infrastructure
+- AWS (EC2, S3, RDS, IAM, Lambda, CloudWatch, VPC)
+- Terraform
+- Terraform Cloud
 
-**DevOps**
-`Docker` `Docker Compose` `GitHub Actions (CI/CD)` `Secrets Management`
+### DevOps & Automation
+- Docker
+- Docker Compose
+- GitHub Actions (CI/CD)
+- Git
+- Linux
+- SSH
 
-**Application Services**
-`FastAPI` `Flask` `Django` `REST APIs`
+### Languages
+- Python
+- SQL
+- Java
 
-**Databases**
-`PostgreSQL` `MySQL` `SQLAlchemy` `SQLModel`
+### Backend Development
+- FastAPI
+- Flask
+- REST APIs
 
-**Languages**
-`Python` `SQL` `Java`
-
----
-
-## 🚀 Projects
-
-### [AI-Agent](https://github.com/Onkar-M-Dev/AI-Agent) — Cloud-Native Multi-Agent Platform
-> FastAPI · LangGraph · PostgreSQL · Docker · GitHub Actions · Render
-
-A cloud-native automation platform that routes natural language tasks through containerized agent workflows deployed on Render with GitHub Actions CI/CD.
-
-- Validated stable response behavior under 20–50 concurrent requests on free-tier infrastructure
-- Achieved ~85–90% task success rate across 30+ multi-agent test scenarios
-- Docker Compose orchestration with health checks, restart policies, and persistent volumes
-
-👉 **Live:** https://ai-agent-h0ho.onrender.com/docs *(free tier — allow 30–60s wake time)*
-
----
-
-### [FlaskBlog](https://github.com/Onkar-M-Dev/FlaskBlog) — Production-Deployed Blog App
-> Flask · PostgreSQL · Docker · GitHub Actions · Render
-
-Containerized cloud-deployed application with automated CI/CD and environment-based runtime configuration.
+### Databases
+- PostgreSQL
+- MySQL
+- SQLAlchemy
+- SQLModel
 
 ---
 
-## 📜 Certifications
+## Featured Projects
 
-- 🏅 **AWS Certified Solutions Architect – Associate (SAA-C03)** · 2024
-- 📊 **SQL Programming** · LinkedIn Learning · 2024
+## ☁️ Terraform Cloud - AWS OIDC Integration
+
+Secure Infrastructure as Code implementation using Terraform Cloud and AWS OpenID Connect (OIDC), eliminating long-lived AWS credentials through workload identity federation.
+
+**Highlights**
+
+- Terraform Cloud Remote Execution
+- AWS IAM OIDC Provider
+- IAM Role Federation
+- Infrastructure as Code
+- Remote State Management
+- Secure Authentication without Access Keys
+
+🔗 Repository:
+https://github.com/Onkar-M-Dev/terraform-cloud-oidc
 
 ---
 
-## 📬 Contact
+## ☁️ Cloud-Native Multi-Agent Platform
 
-[![Email](https://img.shields.io/badge/Email-onkar.marne22%40gmail.com-blue?style=flat&logo=gmail)](mailto:onkar.marne22@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/onkar-m-54166819b)
-[![GitHub](https://img.shields.io/badge/GitHub-Onkar--M--Dev-black?style=flat&logo=github)](https://github.com/Onkar-M-Dev)
+Containerized backend platform demonstrating cloud deployment, CI/CD automation, Docker orchestration, PostgreSQL persistence, and operational monitoring.
 
+**Highlights**
+
+- Docker & Docker Compose
+- GitHub Actions CI/CD
+- Render Cloud Deployment
+- PostgreSQL
+- FastAPI
+- Operational Monitoring
+- Health & Readiness Endpoints
+
+🔗 Repository:
+https://github.com/Onkar-M-Dev/cloud-native-ai-platform
+
+🌐 Live Demo:
+https://ai-agent-h0ho.onrender.com/docs
+
+---
+
+## ☁️ Containerized Web Application
+
+Production-style Flask application demonstrating containerization, automated deployment, Gunicorn, PostgreSQL, and cloud hosting.
+
+**Highlights**
+
+- Docker
+- GitHub Actions
+- Render
+- Gunicorn
+- PostgreSQL
+- Environment-based Configuration
+- Production Deployment
+
+🔗 Repository:
+https://github.com/Onkar-M-Dev/containerized-web-application
+
+🌐 Live Demo:
+https://flaskblog-yxgo.onrender.com
+
+---
+
+## 📚 Learning
+
+I'm currently expanding my cloud engineering skills by working with:
+
+- Terraform Modules
+- AWS Services
+- Kubernetes
+- Amazon ECS
+- CI/CD Best Practices
+- Cloud Security
+
+---
+
+## 📜 Professional Courses
+
+- AWS Solutions Architect Associate (Self-Paced Learning)
+- Terraform (Self-Paced Learning)
+- SQL Programming — LinkedIn Learning
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/onkar-m-54166819b
+- GitHub: https://github.com/Onkar-M-Dev
+- Email: onkar.marne22@gmail.com
