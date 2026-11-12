@@ -2,9 +2,9 @@
 
 ### Cloud Engineer | AWS | Terraform | Docker | GitHub Actions | Python
 
-I'm a Cloud Engineer focused on building and deploying containerized applications, automating infrastructure, and implementing cloud-native deployment workflows.
+I'm a Cloud Engineer focused on AWS cloud infrastructure, containerized deployments, Infrastructure as Code, CI/CD automation, and cloud troubleshooting.
 
-My work centers around Infrastructure as Code (Terraform), cloud deployment on AWS and Render, Docker-based containerization, CI/CD automation with GitHub Actions, and backend development using Python.
+My work includes deploying and operating applications on AWS EC2, configuring IAM and security controls, automating infrastructure with Terraform and Terraform Cloud, building Docker-based deployments, and implementing CI/CD workflows with GitHub Actions.
 
 ---
 
@@ -14,21 +14,19 @@ My work centers around Infrastructure as Code (Terraform), cloud deployment on A
 - AWS (EC2, S3, RDS, IAM, Lambda, CloudWatch, VPC)
 - Terraform
 - Terraform Cloud
+- Linux
+- SSH
 
 ### DevOps & Automation
 - Docker
 - Docker Compose
 - GitHub Actions (CI/CD)
 - Git
-- Linux
-- SSH
+- Configuration Management
 
-### Languages
+### Programming & Backend
 - Python
 - SQL
-- Java
-
-### Backend Development
 - FastAPI
 - Flask
 - REST APIs
@@ -41,92 +39,89 @@ My work centers around Infrastructure as Code (Terraform), cloud deployment on A
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-## ☁️ Terraform Cloud - AWS OIDC Integration
+### ☁️ AWS Infrastructure Automation using Terraform Cloud & OIDC
 
-Secure Infrastructure as Code implementation using Terraform Cloud and AWS OpenID Connect (OIDC), eliminating long-lived AWS credentials through workload identity federation.
+Secure Infrastructure as Code implementation using Terraform Cloud and AWS OpenID Connect (OIDC), eliminating long-lived AWS access keys through workload identity federation.
 
 **Highlights**
-
-- Terraform Cloud Remote Execution
+- Terraform Cloud remote execution
 - AWS IAM OIDC Provider
-- IAM Role Federation
-- Infrastructure as Code
-- Remote State Management
-- Secure Authentication without Access Keys
+- IAM role federation
+- Terraform import blocks
+- Reusable IAM trust policies
+- Workspace-level access controls
+- Secure authentication without long-lived access keys
 
-🔗 Repository:
+🔗 **Repository:**  
 https://github.com/Onkar-M-Dev/terraform-cloud-oidc
 
 ---
 
-## ☁️ Cloud-Native Multi-Agent Platform
+### ☁️ Cloud-Native Multi-Agent Platform
 
-Containerized backend platform demonstrating cloud deployment, CI/CD automation, Docker orchestration, PostgreSQL persistence, and operational monitoring.
+Containerized FastAPI and PostgreSQL application deployed on AWS EC2 using Docker Compose, with secure configuration, container networking, health validation, troubleshooting, and CloudWatch monitoring.
 
 **Highlights**
-
+- AWS EC2 deployment
 - Docker & Docker Compose
+- PostgreSQL container and persistent storage
+- AWS Security Groups
 - GitHub Actions CI/CD
-- Render Cloud Deployment
-- PostgreSQL
-- FastAPI
-- Operational Monitoring
-- Health & Readiness Endpoints
+- Environment and secrets management
+- API and container health validation
+- Docker log-based troubleshooting
+- Amazon CloudWatch monitoring
 
-🔗 Repository:
+🔗 **Repository:**  
 https://github.com/Onkar-M-Dev/cloud-native-ai-platform
 
-🌐 Live Demo:
-https://ai-agent-h0ho.onrender.com/docs
-
 ---
 
-## ☁️ Containerized Web Application
+### ☁️ Containerized Web Application
 
-Production-style Flask application demonstrating containerization, automated deployment, Gunicorn, PostgreSQL, and cloud hosting.
+Containerized Flask and PostgreSQL application deployed on AWS EC2 using Docker Compose and Gunicorn, with secure networking, persistent storage, runtime troubleshooting, and end-to-end application validation.
 
 **Highlights**
-
-- Docker
-- GitHub Actions
-- Render
+- AWS EC2 deployment
+- Docker & Docker Compose
 - Gunicorn
 - PostgreSQL
-- Environment-based Configuration
-- Production Deployment
+- AWS Security Groups
+- Environment-based configuration
+- Container health checks
+- Application and database log analysis
+- End-to-end application validation
 
-🔗 Repository:
+🔗 **Repository:**  
 https://github.com/Onkar-M-Dev/containerized-web-application
 
-🌐 Live Demo:
-https://flaskblog-yxgo.onrender.com
+---
+
+## 📚 Currently Learning
+
+I'm continuing to build my cloud engineering skills in:
+
+- Advanced Terraform
+- AWS cloud architecture and operations
+- Cloud monitoring and observability
+- CI/CD best practices
+- Cloud security
+- Kubernetes
 
 ---
 
-## 📚 Learning
-
-I'm currently expanding my cloud engineering skills by working with:
-
-- Terraform Modules
-- AWS Services
-- Amazon ECS
-- CI/CD Best Practices
-- Cloud Security
-
----
-
-## 📜 Professional Courses
+## 📜 Certifications & Courses
 
 - AWS Solutions Architect Associate (Self-Paced Learning)
-- Terraform (Self-Paced Learning)
+- Terraform: Beginner to Expert — Udemy
 - SQL Programming — LinkedIn Learning
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/onkar-m-54166819b
-- GitHub: https://github.com/Onkar-M-Dev
-- Email: onkar.marne22@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/onkar-m-54166819b
+- **GitHub:** https://github.com/Onkar-M-Dev
+- **Email:** onkar.marne22@gmail.com
