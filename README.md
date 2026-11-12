@@ -33,7 +33,6 @@ My work includes deploying and operating applications on AWS EC2, configuring IA
 
 ### Databases
 - PostgreSQL
-- MySQL
 - SQLAlchemy
 - SQLModel
 
